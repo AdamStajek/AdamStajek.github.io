@@ -1,13 +1,5 @@
-title: Moja strona
-email: adasta146@gmail.com
-description: >- 
-  Strona konta na GitHub
-baseurl: ''
-url: ''
-github_username: AdamStajek
-
-
-markdown: kramdown
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
-  - jekyll-fee
+- jekyll-remote-theme
+title: moja_strona
+description: tba
